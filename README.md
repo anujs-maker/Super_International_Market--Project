@@ -1,4 +1,3 @@
-# Super_International_Market--Project
 # Sales and Profit Analysis
 
 This project focuses on analyzing sales and profit trends over time, identifying top-performing categories and sub-categories, and deriving actionable insights for business growth. Using Python and libraries like pandas, matplotlib, and seaborn, we explore data-driven solutions to improve decision-making.
@@ -82,4 +81,5 @@ Sales and Profit Representation: Each bar represents a market, with the stacked 
 Color Scheme: The two contrasting colors make it easy to distinguish between sales and profit values for each market.
 Insights: This chart helps to identify which markets are performing well in both sales and profit, providing a clear view of the financial distribution across different markets.
 This type of visualization is useful for comparing the contributions of sales and profit across markets at a glance.
+
 
